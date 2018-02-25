@@ -1,5 +1,5 @@
 /node_modules
 *.secret
-/geth
-/keystore
+/private/geth
+/private/keystore
 
