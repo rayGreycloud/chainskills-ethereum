@@ -17,9 +17,6 @@ CLI > geth --datadir . init ChainSkills.json
 ## Create accounts 
 CLI > geth --datadir . account new  
 Passphrase: pass1234  
-Address: {325a27e2684218eeba33ade3297ff47111114842}  
-Address: {6340ffc2e8b5796ddd53d4119ac1b175406972a2}  
-Address: {e813a2e8e0d3aefdd497bfdc808f71eaf0afa6be}  
 
 ## Account list 
 geth --datadir . account list 
